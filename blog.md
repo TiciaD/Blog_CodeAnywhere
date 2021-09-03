@@ -16,4 +16,4 @@ One of my favorite shows has a very simple quote that says:
 > But you gotta do it everyday
 > That's the hard part
 
-![Bojack Horseman quote with picture](https://i.imgur.com/TBFdkep.jpeg)
+![Bojack Horseman quote with picture](img/Bojack.jpg)
