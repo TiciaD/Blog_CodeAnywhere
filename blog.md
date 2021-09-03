@@ -17,3 +17,18 @@ One of my favorite shows has a very simple quote that says:
 > That's the hard part
 
 ![Bojack Horseman quote with picture](img/Bojack.jpg)
+
+## Part 2: HTML and CSS headaches
+### 8/30/2021 - 9/3/2021
+Seeing all the possibilities of what I could potentially make and then trying to make that now with my limited toolset is pretty sobering. So maybe it's a bit forward and impatient of me to say I'd like to do everything but that's definitely not far from the truth. Some of the more specific things I'd most like to do are make my webpage more interactive. For instance, just making a menu button that opens up with options or making a picture pop out when you hover over it.
+
+Me and CSS right now have a love hate relationship going on. After learning HTML and getting somewhat confident with that, CSS has been a headache in comparison. I can see the potential in CSS but I feel like my limited toolset is keeping me handcuffed from truly implementing its full potential. I've been doing some supplemental learning from YouTube tutorials on Website Building and they've been very informative and inspiring. It's just tough for me right now to bridge that gap between how they were able to implement those features in  their work and how to implement those same functions in my own.
+
+When I encounter problems in my code, I tend to keep a level head. First, I look around for the common mistakes like missing semicolons, quotes, parentheses, etc. When I eliminate that, if it's an issue I've encountered before or I may have heard someone else encountered, I'll go to whatever techniques I used then or check our class group chat and follow through what they were told to do. If that all fails, then Google is my new best friend, and I try to describe the problem and see if it's been posted on StackOverflow or other forums where someone else potentially ahd the same problem. I usually have to take a break after looking this far and long into a problem, so I step away from the computer to give myself a mental break whenever it gets to be too much. Eventually with enough time, patience and research I'm able to figure out what I was missing so I try to avoid asking for help in the class group chat as much as I can so I can develop my research abilities. It'll be important for me to know how to solve these problems on my own but also know when to ask help if it's too far above my abilities.
+
+I feel like I'm learning so much every single day and yet still feel like I've barely dipped my toe in a sea of coding knowledge. I guess that means I'm only inches from the dreaded Cliff of Confusion... 
+
+Mark me down as scared and excited! To quote my favorite musical:
+> There's a million things I haven't done but just you *wait*...
+
+![Hamilton quote with star logo](img/Hamilton.jpg)
