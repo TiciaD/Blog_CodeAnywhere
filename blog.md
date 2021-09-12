@@ -32,3 +32,15 @@ Mark me down as scared and excited! To quote my favorite musical:
 > There's a million things I haven't done but just you *wait*...
 
 ![Hamilton quote with star logo](img/Hamilton.jpg)
+
+## Part 3: All Aboard the JavaScript Struggle Train
+### 9/6/21 - 9/10/21
+Well I may have predicted my struggle this week but I didn't expect it to be this bad. After a busy labor day weekend celebrating my mom's birthday, I didn't have much time to get started or get ahead on the coursework for the week. Maybe that was my first sign that I was in for a rough week but I definitely knew once I got to the Grasshopper modules for the Sprint. The Intro to Interviewing module was absolutely brutal compared to some of the more guided modules that 'held your hand' with the new concepts. It took me several to finish that one since I kept taking breaks every time I got frustrated, which was a lot... 
+
+I went ahead and started on the Build projects, the Silly Story generator was pretty straightforward and I didn't have many problems with it, but the Alarm Clock? I learned how to fail pretty quick with that one. In hindsight, I realize I probably should've used more pseudocode to make a plan of attack on how to approach the Alarm clock project. I guess it was slightly jarring to go from the guided instructions for the Silly Story generator that had about 70% of the work done for you. To then go to the Alarm clock project that had no real instructions and just a few basic requirements listed. I felt so overwhelmed because I didn't really know where to start. Again I think I would've benefitted from more pseudocode knowledge on how to approach a problem and plan out what you need and what variables and functions would help you accomplish that. Especially since I didn't feel like I learned a lot from GrassHopper since I often stumbled into the right rather than understood *why* it was right. 
+
+I don't like failing but my instructors have been drilling it into our heads every week that we're going to fail, we're going to fail a lot, and that the real key is learning to fail fast so you can move on and learn from it. I had Friday after Demo to be slightly upset about it and take a break from it but I've been hitting the books and tutorials hard this weekend to recover and hopefully learn from the mistakes I made in this last project so that I can avoid making them in the future.
+
+> What that Alarm Clock project looked like:
+
+![Meme of How to Draw book skipping crucial steps to make the final detailed picture](img/howtodrawmeme2.png)
